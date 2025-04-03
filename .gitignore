@@ -1,0 +1,36 @@
+# General
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite3
+# migration files
+*/migrations/
+# Environment variables
+.env
+
+# Virtual environments
+env/
+venv/
+
+# Django specific
+/media/
+/static/
+/*.sqlite3
+
+# VS Code specific
+.vscode/
+
+# IDE specific
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ngrok.exe
