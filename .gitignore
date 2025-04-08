@@ -18,7 +18,6 @@ venv/
 
 # Django specific
 /media/
-/static/
 /*.sqlite3
 
 # VS Code specific
